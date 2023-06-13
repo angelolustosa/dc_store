@@ -1,0 +1,35 @@
+/* https://stackoverflow.com/questions/30770658/footer-at-the-bottom-with-horizontal-line */
+footer {
+    align-items: center;
+    background-color: #1f1f1f;
+    color: #fff;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    width: 100vw;
+}
+
+.text-logo {
+    font-size: 33px;
+    font-weight: 600;
+    margin-left: 8px;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 28px;
+}
+
+.footer-bottom {
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.icon-social {
+    margin-right: 1em;
+}
+
+.container-icon-social {
+    margin-top: 3.5em
+}
