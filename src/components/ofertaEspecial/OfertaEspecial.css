@@ -1,0 +1,48 @@
+.oferta-especial-titulo {
+    color: #c92071;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    margin: 106px 0 0;
+    padding: 0;
+}
+
+.oferta-subtitulo {
+    color: #474747;
+    font-size: 48px;
+    font-weight: 700;
+    height: 100px;
+    line-height: 50px;
+    margin-bottom: 0;
+    margin-top: 17px;
+    white-space: wrap;
+    width: 514px;
+}
+
+.texto-oferta {
+    color: #474747;
+    font-size: 1.1111vw;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 20px;
+    width: 40.902vw;
+}
+
+#circle {
+	width: 480px;
+	height: 480px;
+	background: linear-gradient(rgba(66, 5, 255, 0.25), rgb(255 255 255), rgb(255 255 255 / 31%));
+	-moz-border-radius: 240px;
+	-webkit-border-radius: 240px;
+	border-radius: 240px;
+    padding-top: 3em;
+}
+
+/* .tenis-oferta {
+    align-items: center;
+    display: flex;
+    height: 466px;
+    justify-content: center;
+    padding-left: 0 4.28vw 0 3.58vw;
+    width: 39.54vw;
+} */

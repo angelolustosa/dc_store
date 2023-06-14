@@ -1,0 +1,13 @@
+.btn-entrar {
+    background-color: rgb(201, 32, 113);
+    width: 7.87vw;
+
+    border: none;
+    border-radius: 8px;
+    color: #f5f5f5;
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+}
